@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1636805474 source:d:\programlar\codeblock proje\veriyapilariodev2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1636803590 d:\programlar\codeblock proje\veriyapilariodev2\recursicelenght.c
+	<stdio.h>
+	<stdlib.h>
+
+1636803590 source:d:\programlar\codeblock proje\veriyapilariodev2\recursicelenght.c
+	<stdio.h>
+	<stdlib.h>
+
+1636805474 source:d:\programlar\codeblock proje\odev2-a\main.c
+	<stdio.h>
+	<stdlib.h>
+
